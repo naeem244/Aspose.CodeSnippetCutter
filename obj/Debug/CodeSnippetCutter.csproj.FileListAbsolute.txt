@@ -1,0 +1,6 @@
+E:\Aspose\Examples\GitHub\Aspose.Total-for-.NET\Tools\CodeSnippetCutter\bin\Debug\CodeSnippetCutter.exe.config
+E:\Aspose\Examples\GitHub\Aspose.Total-for-.NET\Tools\CodeSnippetCutter\bin\Debug\CodeSnippetCutter.exe
+E:\Aspose\Examples\GitHub\Aspose.Total-for-.NET\Tools\CodeSnippetCutter\bin\Debug\CodeSnippetCutter.pdb
+E:\Aspose\Examples\GitHub\Aspose.Total-for-.NET\Tools\CodeSnippetCutter\obj\Debug\CodeSnippetCutter.csprojResolveAssemblyReference.cache
+E:\Aspose\Examples\GitHub\Aspose.Total-for-.NET\Tools\CodeSnippetCutter\obj\Debug\CodeSnippetCutter.exe
+E:\Aspose\Examples\GitHub\Aspose.Total-for-.NET\Tools\CodeSnippetCutter\obj\Debug\CodeSnippetCutter.pdb
