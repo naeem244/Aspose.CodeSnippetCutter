@@ -14,8 +14,8 @@ namespace CodeSnippetCutter
             String baseGitHubFolder = @"E:\Aspose\Examples\GitHub\";
 
             // Aspose.3D for .NET
-            String examples = baseGitHubFolder + @"Aspose_Note_for_NET\Examples",
-                snippets = baseGitHubFolder + @"Gist_Aspose_Notes_Fork";
+            String examples = baseGitHubFolder + @"Aspose_Cells_for_C\Examples\C",
+                snippets = baseGitHubFolder + @"Gist_Aspose_Cells_C_Fork";
 
             try
             {

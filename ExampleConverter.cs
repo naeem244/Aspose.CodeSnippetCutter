@@ -177,7 +177,10 @@ namespace CodeSnippetCutter
                 if (dirName.StartsWith("aspose_", StringComparison.CurrentCultureIgnoreCase))
                 {
                     if (dirName.EndsWith("_NET", StringComparison.CurrentCultureIgnoreCase) ||
+                        dirName.EndsWith(".NET", StringComparison.CurrentCultureIgnoreCase) ||
+                         dirName.EndsWith(".Java", StringComparison.CurrentCultureIgnoreCase) ||
                         dirName.EndsWith("_Java", StringComparison.CurrentCultureIgnoreCase) ||
+                        dirName.EndsWith("_C", StringComparison.CurrentCultureIgnoreCase) ||
                         dirName.EndsWith("_Cloud", StringComparison.CurrentCultureIgnoreCase) ||
                         dirName.EndsWith("_Android", StringComparison.CurrentCultureIgnoreCase))
                     {
