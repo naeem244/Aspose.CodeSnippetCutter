@@ -1,4 +1,4 @@
-##Aspose.CodeSnippetCutter
+## Aspose.CodeSnippetCutter
 
 Aspose.CodeSnippetCutter is a tool to generate code snippet using ExStart and ExEnd tags. This tool search for ExStart and ExEnd to generate code snippet in source code. To generate code snippet you only need to set source code folder name and output directory name to save generated code snippet.
 
